@@ -70,7 +70,7 @@ public
 Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/your-repository-name.git](https://github.com/infapk02/awesome-water-bottles.git)
+[git clone https://github.com/infapk02/awesome-water-bottles.git]
 ```
 
 Go to the project directory:
